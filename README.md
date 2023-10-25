@@ -1,5 +1,4 @@
-# Frontend-Intern-UI, Responsive Animated and Colourful Portfolio
- 
+# Frontend-Intern-UI
 <figure>
   <figcaption>Website View (on desktop screen)</figcaption>
   <img src="images/website.gif" alt="Website View" width="700">
